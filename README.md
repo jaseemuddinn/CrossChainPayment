@@ -63,7 +63,7 @@ MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/crosschain_payme
 
 # Where YOU want to receive payments
 SETTLEMENT_COIN=usdc
-SETTLEMENT_NETWORK=arbitrum
+SETTLEMENT_NETWORK=ethereum
 SETTLEMENT_ADDRESS=0xYourWalletAddress
 
 # App
