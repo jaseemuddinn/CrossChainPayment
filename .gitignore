@@ -26,3 +26,4 @@ Thumbs.db
 data/
 *.db
 *.sqlite
+crosschainpayment.code-workspace
